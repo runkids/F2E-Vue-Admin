@@ -1,0 +1,16 @@
+@keyframes github{
+  0%{
+    transform: translateX(-1px);
+    color: #EFC457;
+  }
+  25%{
+    transform: translateX(0px);
+  }
+  50%{
+    transform: translateX(1px);
+  }
+  100%{
+    transform: translateX(0px);
+    color: #fff;
+  }
+}
